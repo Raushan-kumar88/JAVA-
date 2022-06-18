@@ -20,6 +20,7 @@ public static void main(String[] args) {
     obj.h=4;
     obj.triangle1();
     //obj.display();
+    
 }
     
 }
