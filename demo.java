@@ -1,5 +1,5 @@
 import java.util.*;
-/* class A
+ class A
 {
 	public static void main(String[] args)
 	{
@@ -25,8 +25,5 @@ import java.util.*;
 		
 		
 	}
-}*/
-
-class A
-{
 	
+}
