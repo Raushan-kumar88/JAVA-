@@ -81,6 +81,12 @@ class Test{
 	Test(){
 		System.out.println("The value of c1"+c1);
 	}
+	
+	
+	//String name;
+	int id;
+	
+	static String C_name="TCS";
 }
 
 
@@ -217,7 +223,8 @@ class Raus{
 			
 		}
 		--------------------------------------------------------
-		** constructor returns current class object reference that is called 'this'.'this' is a key word. this holds the reference id of current object.
+		** constructor returns current class object reference that is called 'this'.
+		'this' is a key word. this holds the reference id of current object.
 		
 		--------------------------------------------------------
 		There are two types of variable 
@@ -225,7 +232,9 @@ class Raus{
 		2.static
 		
 		static keyword :-
-		
+		static variable call in the class 
+		static variable call in the outside of the class
+		'class_name.static_variable_name'
 		
 		
 		*/
